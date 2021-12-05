@@ -42,6 +42,7 @@ function getCss() {
       word-break: break-all;
     }
     .ogp_title {
+      font-family: 'Noto Sans JP', 'Inter', sans-serif;
       position: absolute;
       top: 20%;
       font-size: 5em;
